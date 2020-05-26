@@ -11,3 +11,4 @@ Aula 05 - Tags básicas em HTML5 - Ok
 Aula 06 - Parágrafos, Quebras e Símbolos Especiais - Ok
 Aula 07 - Formatação de Texto com Html e CSS - Ok
 Aula 08 - Código de Cores com Html e CSS - Ok
+Aula 09 - Imagens em Html - 
