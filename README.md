@@ -12,5 +12,5 @@ Aula 06 - Parágrafos, Quebras e Símbolos Especiais - Ok
 Aula 07 - Formatação de Texto com Html e CSS - Ok
 Aula 08 - Código de Cores com Html e CSS - Ok
 Aula 09 - Imagens em Html - Ok
-Aula 10 - Formatação de Imagens com CSS - 
+Aula 10 - Formatação de Imagens com CSS - Ok
 Aula 11 - Listas em Html com OL e UL
