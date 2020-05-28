@@ -14,6 +14,6 @@ Aula 08 - Código de Cores com Html e CSS - Ok
 Aula 09 - Imagens em Html - Ok
 Aula 10 - Formatação de Imagens com CSS - Ok
 Aula 11 - Listas em Html com OL e UL - Ok
-Aula 12 - Links com HTML
-Aula 13 - 
+Aula 12 - Links com HTML - Ok
+Aula 13 - Menu com CSS - 
 Aula 14 - 
