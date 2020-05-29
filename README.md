@@ -16,4 +16,7 @@ Aula 10 - Formatação de Imagens com CSS - Ok
 Aula 11 - Listas em Html com OL e UL - Ok
 Aula 12 - Links com HTML - Ok
 Aula 13 - Menu com CSS - Ok
-Aula 14 -  Efeitos visuais em CSS - 
+Aula 14 - Efeitos visuais em CSS - Ok
+Aula 15 - Formatação de Interfaces com HTML5 - Ok
+Aula 16 - Cabeçalho em CSS3 - Ok
+Aula 17 - 
