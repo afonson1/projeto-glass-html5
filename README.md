@@ -19,4 +19,6 @@ Aula 13 - Menu com CSS - Ok
 Aula 14 - Efeitos visuais em CSS - Ok
 Aula 15 - Formatação de Interfaces com HTML5 - Ok
 Aula 16 - Cabeçalho em CSS3 - Ok
-Aula 17 - 
+Aula 17 - Fontes em CSS - Ok
+Aula 18 - Semântica em HTML - Ok
+Aula 19 - Tabelas
