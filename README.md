@@ -21,4 +21,25 @@ Aula 15 - Formatação de Interfaces com HTML5 - Ok
 Aula 16 - Cabeçalho em CSS3 - Ok
 Aula 17 - Fontes em CSS - Ok
 Aula 18 - Semântica em HTML - Ok
-Aula 19 - Tabelas
+Aula 19 - Tabelas em HTML - Ok
+Aula 20 - Estilos CSS para tabelas em HTML - Ok
+Aula 21 - 
+Aula 22 - 
+Aula 23 - 
+Aula 24 - 
+Aula 25 - 
+Aula 26 - 
+Aula 27 - 
+Aula 28 - 
+Aula 29 - 
+Aula 30 - 
+Aula 31 - 
+Aula 32 - 
+Aula 33 - 
+Aula 34 - 
+Aula 35 - 
+Aula 36 - 
+Aula 37 - 
+Aula 38 - 
+Aula 39 - 
+Aula 40 - 
