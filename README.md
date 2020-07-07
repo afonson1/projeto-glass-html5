@@ -24,7 +24,7 @@ Aula 18 - Semântica em HTML - Ok
 Aula 19 - Tabelas em HTML - Ok
 Aula 20 - Estilos CSS para tabelas em HTML - Ok
 Aula 21 - Interfaces em HTML - Ok
-Aula 22 - 
+Aula 22 - Introdução ao Javascript - Ok
 Aula 23 - 
 Aula 24 - 
 Aula 25 - 
